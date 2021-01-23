@@ -1,0 +1,2 @@
+# si-penduduk
+Sistem Informasi Data Penduduk Desa ABC merupakan sebuah sistem informasi yang dirancang untuk membantu suatu pendataan penduduk yang ada di sekitar desa abc kisaran tersebut. Adapun Beberapa Manfaat Data Penduduk Pada Tahun 2020, Yaitu : 1. Tersedianya data kependudukan dan karakteristiknya. 2. Dasar evaluasi pembangunan nasional dan pembangunan manusia. 3. Dasar perencanaan di berbagai bidang : transportasi, komunikasi, tata ruang dan lingkungan, pendidikan dan budaya.
